@@ -1,4 +1,4 @@
-### Application Overview
+### Azkar
 
 **Prayer Time and Azkar App**
 
